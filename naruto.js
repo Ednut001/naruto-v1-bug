@@ -46,7 +46,7 @@ const randomcolor = listcolor[Math.floor(Math.random() * listcolor.length)]
 let run = runtime(process.uptime())
 // PERINTAH IN CONSOLE
 if (isCmd) {
-console.log(chalk.white.bgRed.bold('Massage'), color(`[DELTAXCRASH]`, `green`), color(`FROM`, `red`), color(`${pushname}`, `red`), color(`Text :`, `yellow`), color(`${body}`, `blue`))
+console.log(chalk.white.bgRed.bold('Massage'), color(`[NARUTOV1]`, `green`), color(`FROM`, `red`), color(`${pushname}`, `red`), color(`Text :`, `yellow`), color(`${body}`, `blue`))
 }
         // HARI
         const hariini = moment.tz('Asia/Jakarta').format('dddd, DD MMMM YYYY')
@@ -1101,8 +1101,8 @@ case 'owner': case 'botowner':
 let namaown = `Owner Cakep`
 var contact = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "contactMessage": {
-"displayName": `${namaown}`,
-"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${owner}\nitem1.TEL;waid=${global.owner}:+${global.owner}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ 𝔈𝔡𝔫𝔲𝔱 ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ 𝐸𝑑𝑛𝑢𝑡 ༑ ]]\nEND:VCARD`,
+"displayName": `${namacreator}`,
+"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namacreator}\nitem1.TEL;waid=${global.owner}:+${global.owner}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ 𝔈𝔡𝔫𝔲𝔱 ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ 𝐸𝑑𝑛𝑢𝑡 ༑ ]]\nEND:VCARD`,
 }
 }), { userJid: m.chat, quoted: m })
 deltaxcrash.relayMessage(m.chat, contact.message, { messageId: contact.key.id })
