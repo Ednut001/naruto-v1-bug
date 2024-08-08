@@ -1102,7 +1102,7 @@ let namaown = `Owner Cakep`
 var contact = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "contactMessage": {
 "displayName": `${namaown}`,
-"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namaown}\nitem1.TEL;waid=${global.ownMain}:+${global.ownMain}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ 𝔈𝔡𝔫𝔲𝔱 ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ 𝐸𝑑𝑛𝑢𝑡 ༑ ]]\nEND:VCARD`,
+"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${owner}\nitem1.TEL;waid=${global.owner}:+${global.owner}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ 𝔈𝔡𝔫𝔲𝔱 ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ 𝐸𝑑𝑛𝑢𝑡 ༑ ]]\nEND:VCARD`,
 }
 }), { userJid: m.chat, quoted: m })
 deltaxcrash.relayMessage(m.chat, contact.message, { messageId: contact.key.id })
