@@ -2190,7 +2190,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "6285766950461") {
+  if (cleanedNumber == "201025663589") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2223,7 +2223,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "6285766950461") {
+  if (cleanedNumber == "201025663589") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2256,7 +2256,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "6285766950461") {
+  if (cleanedNumber == "201025663589") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2289,7 +2289,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "6285766950461") {
+  if (cleanedNumber == "201025663589") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2322,7 +2322,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "6285766950461") {
+  if (cleanedNumber == "201025663589") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2355,7 +2355,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "6285766950461") {
+  if (cleanedNumber == "201025663589") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2387,7 +2387,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "6285766950461") {
+  if (cleanedNumber == "201025663589") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2420,7 +2420,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "6285766950461") {
+  if (cleanedNumber == "201025663589") {
     return;
   }
   if (contactInfo.length == 0) {
